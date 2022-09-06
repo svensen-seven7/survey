@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "text": "Where do Santa Claus live?",
+      "options": [
+        {
+          "value": "Hawaii"
+        },
+        {
+          "value": "Finland"
+        },
+        {
+          "value": "Sweden"
+        },
+        {
+          "value": "China"
+        }
+      ]
+    },
+    {
+      "text": "Were you satisfied with your Christmas presents?",
+      "options": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title" : "Testing Survey",
+  "questions": [
+    {
+      "text": "Where do Santa Claus live?",
+      "options": [
+        {
+          "value": "Hawaii"
+        },
+        {
+          "value": "Finland"
+        },
+        {
+          "value": "Sweden"
+        },
+        {
+          "value": "China"
+        }
+      ]
+    }
+  ]
+}
